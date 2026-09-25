@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="184" height="26" role="img" aria-label="Prompts: 4 workflows">
+  <title>Prompts: 4 workflows</title>
+  <rect width="184" height="26" rx="4" fill="#bcd7ff"/>
+  <path d="M4 0h66v26H4a4 4 0 0 1-4-4V4a4 4 0 0 1 4-4" fill="#292d2a"/>
+  <g font-family="Verdana,DejaVu Sans,sans-serif" font-size="11" text-anchor="middle">
+    <text x="35" y="17" fill="#fff">prompts</text>
+    <text x="127" y="17" fill="#292d2a">4 workflows</text>
+  </g>
+</svg>

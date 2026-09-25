@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="143" height="26" role="img" aria-label="Includes: UI and UX">
+  <title>Includes: UI and UX</title>
+  <rect width="143" height="26" rx="4" fill="#f4c3d3"/>
+  <path d="M4 0h74v26H4a4 4 0 0 1-4-4V4a4 4 0 0 1 4-4" fill="#292d2a"/>
+  <g font-family="Verdana,DejaVu Sans,sans-serif" font-size="11" text-anchor="middle">
+    <text x="39" y="17" fill="#fff">includes</text>
+    <text x="110" y="17" fill="#292d2a">UI + UX</text>
+  </g>
+</svg>
